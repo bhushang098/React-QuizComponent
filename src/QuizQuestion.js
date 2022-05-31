@@ -1,6 +1,6 @@
 import React, {Component} from "react"
 import QuizQuestionButton from "./QuizQuestionButton"
-import QuizEnd from "./QuizEnd"
+
 
 class QuizQuestion extends Component {
 
